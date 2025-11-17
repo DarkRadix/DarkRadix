@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DarkRadix/DarkRadix/main/banner.png" width="100%" />
+  <img src="https://i.pinimg.com/originals/2e/73/f5/2e73f54bfd969a264820b1b9f5253db8.gif" width="100%" />
 </p>
 
 <h1 align="center">👋 Olá! Eu sou o Yuri Paranhos</h1>
