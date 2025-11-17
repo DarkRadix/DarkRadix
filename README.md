@@ -18,14 +18,14 @@
 - 🛰️ Criador do **KnightSpecter** e **KnightFoods**  
 - 📚 Estudante de Técnico em Informática  
 - 🎨 Curto criar apps, sistemas, automações e projetos criativos  
-- 🎮 Gamer e apaixonado por pixel art / retro vibes  
+- 🎮 Gamer e apaixonado por informatica  
 - 📍 Santa Cruz do Sul – RS  
 
 ---
 
 ## 🛠️ Tecnologias que uso
 <p align="left">
-  <img height="32" src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git,github,js,html,css,mysql,sqlite,flutter,dart,arduino,linux,windows" />
+  <img height="32" src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,git,github,js,html,css,mysql,sqlite,flutter,windows" />
 </p>
 
 ---
