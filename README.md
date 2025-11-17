@@ -1,12 +1,14 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/YOUR-USER/YOUR-USER/blob/main/banner.png" width="80%" />
+  <img src="https://raw.githubusercontent.com/DarkRadix/DarkRadix/main/banner.png" width="100%" />
 </p>
 
 <h1 align="center">👋 Olá! Eu sou o Yuri Paranhos</h1>
 
 <p align="center">
-  <a href="https://github.com/YOUR-USER"><img src="https://img.shields.io/github/followers/YOUR-USER?label=Follow&style=social"></a>
+  <a href="https://github.com/DarkRadix">
+    <img src="https://img.shields.io/github/followers/DarkRadix?label=Follow&style=social" />
+  </a>
 </p>
 
 ---
@@ -15,7 +17,8 @@
 - 💻 Desenvolvedor .NET / Windows Forms  
 - 🛰️ Criador do **KnightSpecter** e **KnightFoods**  
 - 📚 Estudante de Técnico em Informática  
-- 🎨 Gosto de criar apps, logos, automações e projetos criativos  
+- 🎨 Curto criar apps, sistemas, automações e projetos criativos  
+- 🎮 Gamer e apaixonado por pixel art / retro vibes  
 - 📍 Santa Cruz do Sul – RS  
 
 ---
@@ -29,8 +32,8 @@
 
 ## 📊 Estatísticas
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR-USER&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USER&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DarkRadix&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkRadix&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -38,10 +41,17 @@
 ## 📂 Projetos Destaque
 - 🔥 **Senac.Comandas.Api** – API para controle de mesas/comandas  
 - 🍔 **KnightFoods** – Sistema de cardápio e pedidos  
-- 🎮 **Pokedex Senac** – Projeto front-End com Pokémon  
+- 🎮 **Pokedex Senac** – Projeto front-end com Pokémon  
+- ⚙️ Aplicações e testes diversos em .NET / Windows Forms  
 
 ---
 
 ## 📫 Contato
-**Instagram:** @radixfire  
-**Email:** SEUEMAIL@GMAIL.COM  
+📷 **Instagram:** @_yuriparanhos  
+📧 **Email:** Yury20@live.com  
+
+---
+
+<p align="center">
+  <strong>Valeu por visitar meu perfil 😄</strong>
+</p>
